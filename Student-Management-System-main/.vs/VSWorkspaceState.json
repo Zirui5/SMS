@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\Components",
+    "\\frontend\\src\\Components\\AdminDashboard",
+    "\\frontend\\src\\Components\\CourseDashboard",
+    "\\frontend\\src\\Components\\PrefessorDashboard"
+  ],
+  "SelectedNode": "\\frontend\\src\\Components\\CourseDashboard",
+  "PreviewInSolutionExplorer": false
+}
